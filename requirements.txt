@@ -1,0 +1,10 @@
+${TRUNKIE_WHEEL_DIR}/trunky_data_vault-0.0.4-py3-none-any.whl
+${TRUNKIE_WHEEL_DIR}/trunky_data_model-0.0.3-py3-none-any.whl
+${TRUNKIE_WHEEL_DIR}/trunky_general_utils-0.0.2-py3-none-any.whl
+
+scikit-image==0.19.3
+matplotlib
+scikit-learn
+opencv-python
+python-dotenv
+
